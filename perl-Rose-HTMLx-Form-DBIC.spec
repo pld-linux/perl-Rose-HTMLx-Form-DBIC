@@ -9,8 +9,9 @@ Summary:	Rose::HTMLx::Form::DBIC - Module abstract (<= 44 characters) goes here
 #Summary(pl.UTF-8):	
 Name:		perl-Rose-HTMLx-Form-DBIC
 Version:	0.05
-Release:	1
-License:	unknown
+Release:	2
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Rose/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	6d812c8fe1ef56b6512af000368378fb
