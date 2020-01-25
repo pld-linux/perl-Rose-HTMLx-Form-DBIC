@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Rose
 %define	pnam	HTMLx-Form-DBIC
 Summary:	Rose::HTMLx::Form::DBIC - Module abstract (<= 44 characters) goes here
