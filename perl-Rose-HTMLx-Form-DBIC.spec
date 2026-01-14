@@ -8,7 +8,7 @@ Summary:	Rose::HTMLx::Form::DBIC - Module abstract (<= 44 characters) goes here
 #Summary(pl.UTF-8):
 Name:		perl-Rose-HTMLx-Form-DBIC
 Version:	0.08
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
